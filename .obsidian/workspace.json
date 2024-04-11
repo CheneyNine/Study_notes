@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2人机交互设计/Review.md",
+                "file": "B2软件工程/C软件测试/复习.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302
+    "width": 200
   },
   "right": {
     "id": "dc41e41cb20a1b3d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C2人机交互设计/Review.md",
+                "file": "B2软件工程/C软件测试/复习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C2人机交互设计/Review.md",
+                "file": "B2软件工程/C软件测试/复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C2人机交互设计/Review.md"
+                "file": "B2软件工程/C软件测试/复习.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,14 +144,21 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "7f995ea9b45b96c4",
   "lastOpenFiles": [
-    "C2人机交互设计/6 交互设计 超越人机交互.md",
+    "B2软件工程/C软件测试/0 导论.md",
+    "C1人工智能导论/1. 知识表示.md",
+    "B2软件工程/C软件测试/复习.md",
+    "B2软件工程/C软件测试/1 第一节.md",
+    "B2软件工程/C软件测试/2 单元测试.md",
+    "B2软件工程/C软件测试/3 白盒测试.md",
+    "A0Mathematical algorithms/距离计算.md",
+    "A0Mathematical algorithms/多维尺度分析（MDS）.md",
     "C2人机交互设计/Review.md",
+    "C2人机交互设计/6 交互设计 超越人机交互.md",
     "C2机器学习/5.md",
     "C2人机交互设计/4.md",
     "B2English/听力.md",
@@ -170,14 +178,6 @@
     "A0NLP/Word Embedding/Word2Vec、Glove、ELMo & fastText.md",
     "A0NLP/Word Embedding/LINK Language Model training with Neural Networks.md",
     "A0NLP/Word Embedding/Intro of Word Embedding.md",
-    "A0NLP/Word Embedding/ELMo.md",
-    "A0NLP/Transfomer/Transformer.md",
-    "A0NLP/Seq2seq/Seq2seq.md",
-    "A0NLP/RNN/RNN.md",
-    "A0NLP/RNN/Hierarchically aggregating document info.md",
-    "A0NLP/RNN/Bidirectional RNNs.md",
-    "A0NLP/LSTM/LSTM.md",
-    "A0NLP/LSTM/GRU++.md",
     "A0NLP/医学论文学习",
     "A0NLP/Word Embedding",
     "A0NLP/Transfomer",
