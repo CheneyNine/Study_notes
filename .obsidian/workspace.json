@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a209371b1bf641b",
+        "id": "3806ac3324faaae4",
         "type": "tabs",
         "children": [
           {
-            "id": "7f995ea9b45b96c4",
+            "id": "de217e019df28794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2软件工程/C软件测试/复习.md",
+                "file": "B2软件工程/D软件项目管理/复习.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B2软件工程/C软件测试/复习.md",
+                "file": "B2软件工程/D软件项目管理/复习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B2软件工程/C软件测试/复习.md",
+                "file": "B2软件工程/D软件项目管理/复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B2软件工程/C软件测试/复习.md"
+                "file": "B2软件工程/D软件项目管理/复习.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,14 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7f995ea9b45b96c4",
+  "active": "de217e019df28794",
   "lastOpenFiles": [
+    "B2软件工程/D软件项目管理/0 软件项目管理概述.md",
+    "B2软件工程/D软件项目管理/复习.md",
+    "B2软件工程/C软件测试/复习.md",
+    "B2软件工程/C软件测试/3 白盒测试.md",
+    "B2软件工程/C软件测试/2 单元测试.md",
+    "B2软件工程/C软件测试/1 第一节.md",
     "B2软件工程/C软件测试/0 导论.md",
     "C1人工智能导论/1. 知识表示.md",
-    "B2软件工程/C软件测试/复习.md",
-    "B2软件工程/C软件测试/1 第一节.md",
-    "B2软件工程/C软件测试/2 单元测试.md",
-    "B2软件工程/C软件测试/3 白盒测试.md",
     "A0Mathematical algorithms/距离计算.md",
     "A0Mathematical algorithms/多维尺度分析（MDS）.md",
     "C2人机交互设计/Review.md",
@@ -176,8 +177,6 @@
     "A0NLP/医学论文学习/基于深度学习的医学文本情感分析.md",
     "A0NLP/Word Embedding/拓展学习Word Embedding.md",
     "A0NLP/Word Embedding/Word2Vec、Glove、ELMo & fastText.md",
-    "A0NLP/Word Embedding/LINK Language Model training with Neural Networks.md",
-    "A0NLP/Word Embedding/Intro of Word Embedding.md",
     "A0NLP/医学论文学习",
     "A0NLP/Word Embedding",
     "A0NLP/Transfomer",
