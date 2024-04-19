@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74f54a38c9398a1a",
+        "id": "1674fd99991eb7ad",
         "type": "tabs",
         "children": [
           {
-            "id": "c99a8cee74e658c3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "image/Pasted image 20240418132851.png"
-              }
-            }
-          },
-          {
-            "id": "1d7f4c4ba44dbc1a",
+            "id": "763809532b7ef962",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,10 +146,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d7f4c4ba44dbc1a",
+  "active": "763809532b7ef962",
   "lastOpenFiles": [
-    "image/Pasted image 20240419213019.png",
     "A0NLP/多模态融合 Multimodel Fusion.md",
+    "image/Pasted image 20240419220813.png",
+    "image/Pasted image 20240419220516.png",
+    "image/Pasted image 20240419220109.png",
+    "image/Pasted image 20240419214846.png",
+    "C1人工智能导论/2. 智能计算.md",
+    "A0NLP/NLP 诗歌文字生成.md",
+    "C1人工智能导论/1. 知识表示.md",
+    "image/Pasted image 20240418132851.png",
+    "image/Pasted image 20240419213019.png",
     "image/Pasted image 20240419210920.png",
     "image/Pasted image 20240419205733.png",
     "image/Pasted image 20240419203943.png",
@@ -168,12 +165,6 @@
     "C2机器学习/2.1线性回归.md",
     "image/Pasted image 20240418133443.png",
     "C2机器学习/2.2逻辑回归.md",
-    "image/Pasted image 20240418131901.png",
-    "image/截屏2024-04-18 13.17.01.png",
-    "image/Pasted image 20240418132851.png",
-    "image/Pasted image 20240418132812.png",
-    "image/Pasted image 20240418132347.png",
-    "image/Pasted image 20240418132337.png",
     "C2机器学习/1性能度量与评估.md",
     "C2机器学习/5.md",
     "C2机器学习/决策树.md",
@@ -198,10 +189,7 @@
     "C2人机交互设计/4.md",
     "C2人机交互设计/3 The process of interaction design.md",
     "C2人机交互设计/2 Usability of interactive systems and design principles.md",
-    "C2人机交互设计/1 introduction to HCI & ID.md",
     "C2人机交互设计",
-    "C1人工智能导论/5. 卷积神经网络.md",
-    "C1人工智能导论/4. 深度学习.md",
     "C1人工智能导论",
     "B2软件工程/D软件项目管理",
     "B2软件工程/C软件测试"
