@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2机器学习/2.1线性回归.md",
+                "file": "A0NLP/多模态融合 Multimodel Fusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C2机器学习/2.1线性回归.md",
+                "file": "A0NLP/多模态融合 Multimodel Fusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C2机器学习/2.1线性回归.md",
+                "file": "A0NLP/多模态融合 Multimodel Fusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C2机器学习/2.1线性回归.md"
+                "file": "A0NLP/多模态融合 Multimodel Fusion.md"
               }
             }
           }
@@ -159,12 +159,18 @@
   },
   "active": "1d7f4c4ba44dbc1a",
   "lastOpenFiles": [
+    "image/Pasted image 20240419213019.png",
+    "A0NLP/多模态融合 Multimodel Fusion.md",
+    "image/Pasted image 20240419210920.png",
+    "image/Pasted image 20240419205733.png",
+    "image/Pasted image 20240419203943.png",
+    "C2机器学习/人工神经网络.md",
+    "C2机器学习/2.1线性回归.md",
     "image/Pasted image 20240418133443.png",
     "C2机器学习/2.2逻辑回归.md",
     "image/Pasted image 20240418131901.png",
     "image/截屏2024-04-18 13.17.01.png",
     "image/Pasted image 20240418132851.png",
-    "C2机器学习/2.1线性回归.md",
     "image/Pasted image 20240418132812.png",
     "image/Pasted image 20240418132347.png",
     "image/Pasted image 20240418132337.png",
@@ -173,11 +179,7 @@
     "C2机器学习/决策树.md",
     "C2机器学习/利用线性回归进行人脸识别.md",
     "C2机器学习/0课程引言.md",
-    "img_PicGo/image-20221129145529787.png",
-    "img_PicGo/cata3_rag.jpg",
     "img_PicGo",
-    "image/image-20231129105323961.png",
-    "image/image-20231129104331904.png",
     "image",
     "Zotero Note Template.md",
     "X美赛/笔记.md",
@@ -190,7 +192,6 @@
     "IOS 开发学习/Xcode.md",
     "IOS 开发学习/Components of an App.md",
     "IOS 开发学习",
-    "C2机器学习/人工神经网络.md",
     "C2机器学习",
     "C2人机交互设计/Review.md",
     "C2人机交互设计/6 交互设计 超越人机交互.md",
@@ -201,7 +202,6 @@
     "C2人机交互设计",
     "C1人工智能导论/5. 卷积神经网络.md",
     "C1人工智能导论/4. 深度学习.md",
-    "C1人工智能导论/3. 机器学习.md",
     "C1人工智能导论",
     "B2软件工程/D软件项目管理",
     "B2软件工程/C软件测试"
