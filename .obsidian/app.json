@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "attachmentFolderPath": "image"
 }

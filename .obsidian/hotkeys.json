@@ -6,7 +6,7 @@
         "Mod",
         "Shift"
       ],
-      "key": "-"
+      "key": "="
     }
   ],
   "obsidian-git:commit": [
@@ -16,9 +16,10 @@
         "Mod",
         "Shift"
       ],
-      "key": "="
+      "key": "-"
     }
   ],
+  "workspace:goto-tab-1": [],
   "editor:set-heading-1": [
     {
       "modifiers": [
@@ -27,7 +28,7 @@
       "key": "1"
     }
   ],
-  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
   "editor:set-heading-2": [
     {
       "modifiers": [
@@ -44,16 +45,6 @@
       "key": "3"
     }
   ],
-  "editor:set-heading-6": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "6"
-    }
-  ],
-  "workspace:goto-tab-2": [],
-  "workspace:goto-tab-3": [],
   "editor:set-heading-4": [
     {
       "modifiers": [
@@ -70,6 +61,15 @@
       "key": "5"
     }
   ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "6"
+    }
+  ],
+  "workspace:goto-tab-3": [],
   "workspace:goto-tab-4": [],
   "workspace:goto-tab-5": [],
   "workspace:goto-tab-6": []

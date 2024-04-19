@@ -1,39 +1,50 @@
 {
   "main": {
-    "id": "09c83f9e3ecaaab8",
+    "id": "c6adf0c1d95e3b16",
     "type": "split",
     "children": [
       {
-        "id": "3806ac3324faaae4",
+        "id": "74f54a38c9398a1a",
         "type": "tabs",
         "children": [
           {
-            "id": "de217e019df28794",
+            "id": "c99a8cee74e658c3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/Pasted image 20240418132851.png"
+              }
+            }
+          },
+          {
+            "id": "1d7f4c4ba44dbc1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2软件工程/D软件项目管理/复习.md",
+                "file": "C2机器学习/2.1线性回归.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "93fcf5d16ed26d72",
+    "id": "574efb83c2c57b61",
     "type": "split",
     "children": [
       {
-        "id": "1285974238be04b3",
+        "id": "16b120f88f69069b",
         "type": "tabs",
         "children": [
           {
-            "id": "a508b145d99a0fbe",
+            "id": "cc51cb8b4bde9141",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +54,7 @@
             }
           },
           {
-            "id": "727c875d191db325",
+            "id": "19a83b4b9a7c206a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +69,7 @@
             }
           },
           {
-            "id": "9ebc67a299fdb728",
+            "id": "f220c2c0f0b6d774",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,24 +80,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "dc41e41cb20a1b3d",
+    "id": "573052f801922d53",
     "type": "split",
     "children": [
       {
-        "id": "0fe9e3a56bd0358c",
+        "id": "fd6432daa08d01e1",
         "type": "tabs",
         "children": [
           {
-            "id": "03180a0646b25f9a",
+            "id": "0b6e08bf8093c2b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B2软件工程/D软件项目管理/复习.md",
-                "collapseAll": true,
+                "file": "C2机器学习/2.1线性回归.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,19 +108,19 @@
             }
           },
           {
-            "id": "e11e121f1415dddc",
+            "id": "4044a096120ee7c3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B2软件工程/D软件项目管理/复习.md",
+                "file": "C2机器学习/2.1线性回归.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2b58dfa7a22eaabb",
+            "id": "014e0e6b2dc0545d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +131,21 @@
             }
           },
           {
-            "id": "2bf1ac2db581b805",
+            "id": "e650c3390b9052a7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "B2软件工程/D软件项目管理/复习.md"
+                "file": "C2机器学习/2.1线性回归.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,54 +157,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "de217e019df28794",
+  "active": "1d7f4c4ba44dbc1a",
   "lastOpenFiles": [
-    "B2软件工程/D软件项目管理/0 软件项目管理概述.md",
-    "B2软件工程/D软件项目管理/复习.md",
-    "B2软件工程/C软件测试/复习.md",
-    "B2软件工程/C软件测试/3 白盒测试.md",
-    "B2软件工程/C软件测试/2 单元测试.md",
-    "B2软件工程/C软件测试/1 第一节.md",
-    "B2软件工程/C软件测试/0 导论.md",
-    "C1人工智能导论/1. 知识表示.md",
-    "A0Mathematical algorithms/距离计算.md",
-    "A0Mathematical algorithms/多维尺度分析（MDS）.md",
-    "C2人机交互设计/Review.md",
-    "C2人机交互设计/6 交互设计 超越人机交互.md",
+    "image/Pasted image 20240418133443.png",
+    "C2机器学习/2.2逻辑回归.md",
+    "image/Pasted image 20240418131901.png",
+    "image/截屏2024-04-18 13.17.01.png",
+    "image/Pasted image 20240418132851.png",
+    "C2机器学习/2.1线性回归.md",
+    "image/Pasted image 20240418132812.png",
+    "image/Pasted image 20240418132347.png",
+    "image/Pasted image 20240418132337.png",
+    "C2机器学习/1性能度量与评估.md",
     "C2机器学习/5.md",
-    "C2人机交互设计/4.md",
-    "B2English/听力.md",
-    "C2机器学习/课程引言.md",
-    "Mdnotes Default Template.md",
-    "Suggestions.md",
-    "Zotero Note Template.md",
-    "README.md",
-    "img_PicGocata3_rag.jpg",
-    "C2机器学习/利用线性回归进行人脸识别.md",
     "C2机器学习/决策树.md",
-    "IOS 开发学习/test/cata2_rag.jpg",
-    "IOS 开发学习/test",
-    "A0NLP/医学论文学习/研究方向.md",
-    "A0NLP/医学论文学习/基于深度学习的医学文本情感分析.md",
-    "A0NLP/Word Embedding/拓展学习Word Embedding.md",
-    "A0NLP/Word Embedding/Word2Vec、Glove、ELMo & fastText.md",
-    "A0NLP/医学论文学习",
-    "A0NLP/Word Embedding",
-    "A0NLP/Transfomer",
-    "A0NLP/Seq2seq",
-    "A0NLP/RNN",
-    "A0NLP/LSTM",
-    "A0NLP/GRU",
-    "A0NLP/Bert",
-    "A0NLP",
+    "C2机器学习/利用线性回归进行人脸识别.md",
+    "C2机器学习/0课程引言.md",
     "img_PicGo/image-20221129145529787.png",
     "img_PicGo/cata3_rag.jpg",
+    "img_PicGo",
     "image/image-20231129105323961.png",
     "image/image-20231129104331904.png",
-    "image/Pasted image 20240401153207.png",
-    "image/Pasted image 20240308113333.png",
-    "image/Pasted image 20240306155039.png",
-    "image/Pasted image 20240304170446.png",
-    "未命名.canvas"
+    "image",
+    "Zotero Note Template.md",
+    "X美赛/笔记.md",
+    "X美赛/历年 C 题的O 奖文章整理.md",
+    "X美赛",
+    "Suggestions.md",
+    "README.md",
+    "Mdnotes Default Template.md",
+    "IOS 开发学习/test",
+    "IOS 开发学习/Xcode.md",
+    "IOS 开发学习/Components of an App.md",
+    "IOS 开发学习",
+    "C2机器学习/人工神经网络.md",
+    "C2机器学习",
+    "C2人机交互设计/Review.md",
+    "C2人机交互设计/6 交互设计 超越人机交互.md",
+    "C2人机交互设计/4.md",
+    "C2人机交互设计/3 The process of interaction design.md",
+    "C2人机交互设计/2 Usability of interactive systems and design principles.md",
+    "C2人机交互设计/1 introduction to HCI & ID.md",
+    "C2人机交互设计",
+    "C1人工智能导论/5. 卷积神经网络.md",
+    "C1人工智能导论/4. 深度学习.md",
+    "C1人工智能导论/3. 机器学习.md",
+    "C1人工智能导论",
+    "B2软件工程/D软件项目管理",
+    "B2软件工程/C软件测试"
   ]
 }
