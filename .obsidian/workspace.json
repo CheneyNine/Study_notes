@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "c6adf0c1d95e3b16",
+    "id": "2706cae1f0ecf181",
     "type": "split",
     "children": [
       {
-        "id": "1674fd99991eb7ad",
+        "id": "891a3b31e9b4cb5f",
         "type": "tabs",
         "children": [
           {
-            "id": "763809532b7ef962",
+            "id": "94d4d7062ff71295",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A0NLP/多模态融合 Multimodel Fusion.md",
+                "file": "C2机器学习/2.2逻辑回归.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "574efb83c2c57b61",
+    "id": "4e79262c78c417fb",
     "type": "split",
     "children": [
       {
-        "id": "16b120f88f69069b",
+        "id": "46a56cbbef35f985",
         "type": "tabs",
         "children": [
           {
-            "id": "cc51cb8b4bde9141",
+            "id": "b8affd4fe52101f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "19a83b4b9a7c206a",
+            "id": "26adfb4ea1fbdce9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "f220c2c0f0b6d774",
+            "id": "467eeda74bb8c8a1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "573052f801922d53",
+    "id": "a38ac8b6545f3660",
     "type": "split",
     "children": [
       {
-        "id": "fd6432daa08d01e1",
+        "id": "95b229af4f01b941",
         "type": "tabs",
         "children": [
           {
-            "id": "0b6e08bf8093c2b5",
+            "id": "9d9e73012a9b32dd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A0NLP/多模态融合 Multimodel Fusion.md",
+                "file": "C2机器学习/2.2逻辑回归.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "4044a096120ee7c3",
+            "id": "8a52fa638772ed98",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A0NLP/多模态融合 Multimodel Fusion.md",
+                "file": "C2机器学习/2.2逻辑回归.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "014e0e6b2dc0545d",
+            "id": "b61bbe11fe624dce",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "e650c3390b9052a7",
+            "id": "bf506d90642c4fd7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "A0NLP/多模态融合 Multimodel Fusion.md"
+                "file": "C2机器学习/2.2逻辑回归.md"
               }
             }
           }
@@ -146,52 +146,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "763809532b7ef962",
+  "active": "94d4d7062ff71295",
   "lastOpenFiles": [
     "A0NLP/多模态融合 Multimodel Fusion.md",
-    "image/Pasted image 20240419220813.png",
-    "image/Pasted image 20240419220516.png",
-    "image/Pasted image 20240419220109.png",
-    "image/Pasted image 20240419214846.png",
-    "C1人工智能导论/2. 智能计算.md",
-    "A0NLP/NLP 诗歌文字生成.md",
-    "C1人工智能导论/1. 知识表示.md",
-    "image/Pasted image 20240418132851.png",
-    "image/Pasted image 20240419213019.png",
-    "image/Pasted image 20240419210920.png",
-    "image/Pasted image 20240419205733.png",
-    "image/Pasted image 20240419203943.png",
-    "C2机器学习/人工神经网络.md",
-    "C2机器学习/2.1线性回归.md",
-    "image/Pasted image 20240418133443.png",
-    "C2机器学习/2.2逻辑回归.md",
-    "C2机器学习/1性能度量与评估.md",
-    "C2机器学习/5.md",
-    "C2机器学习/决策树.md",
-    "C2机器学习/利用线性回归进行人脸识别.md",
-    "C2机器学习/0课程引言.md",
-    "img_PicGo",
-    "image",
     "Zotero Note Template.md",
-    "X美赛/笔记.md",
-    "X美赛/历年 C 题的O 奖文章整理.md",
-    "X美赛",
     "Suggestions.md",
     "README.md",
     "Mdnotes Default Template.md",
+    "X美赛/笔记.md",
+    "X美赛/历年 C 题的O 奖文章整理.md",
+    "X美赛",
+    "IOS 开发学习/test/cata2_rag.jpg",
     "IOS 开发学习/test",
     "IOS 开发学习/Xcode.md",
     "IOS 开发学习/Components of an App.md",
     "IOS 开发学习",
-    "C2机器学习",
+    "img_PicGo/image-20221129145529787.png",
+    "img_PicGo/cata3_rag.jpg",
+    "img_PicGo",
+    "image/截屏2024-04-18 13.17.01.png",
+    "image/image-20231129105323961.png",
+    "image/image-20231129104331904.png",
+    "image/Pasted image 20240419220813.png",
+    "image/Pasted image 20240419220516.png",
+    "image/Pasted image 20240419220109.png",
+    "image/Pasted image 20240419214846.png",
+    "image",
     "C2人机交互设计/Review.md",
     "C2人机交互设计/6 交互设计 超越人机交互.md",
     "C2人机交互设计/4.md",
-    "C2人机交互设计/3 The process of interaction design.md",
     "C2人机交互设计/2 Usability of interactive systems and design principles.md",
+    "C2人机交互设计/3 The process of interaction design.md",
+    "C2人机交互设计/1 introduction to HCI & ID.md",
     "C2人机交互设计",
+    "C2机器学习/利用线性回归进行人脸识别.md",
+    "C2机器学习/决策树.md",
+    "C2机器学习/人工神经网络.md",
+    "C2机器学习/5.md",
+    "C2机器学习/2.2逻辑回归.md",
+    "C2机器学习/2.1线性回归.md",
+    "C2机器学习/1性能度量与评估.md",
+    "C2机器学习/0课程引言.md",
+    "C2机器学习",
+    "C1人工智能导论/4. 深度学习.md",
+    "C1人工智能导论/5. 卷积神经网络.md",
+    "C1人工智能导论/3. 机器学习.md",
     "C1人工智能导论",
-    "B2软件工程/D软件项目管理",
-    "B2软件工程/C软件测试"
+    "B2English",
+    "B2软件工程/D软件项目管理"
   ]
 }
