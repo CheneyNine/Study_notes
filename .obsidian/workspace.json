@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2机器学习/2.2逻辑回归.md",
+                "file": "B2软件工程/E软件结构与设计模式/1 概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de6c895a5e577e15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C2人机交互设计/2 Usability of interactive systems and design principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207.50390243530273
   },
   "right": {
     "id": "a38ac8b6545f3660",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C2机器学习/2.2逻辑回归.md",
+                "file": "B2软件工程/E软件结构与设计模式/1 概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C2机器学习/2.2逻辑回归.md",
+                "file": "B2软件工程/E软件结构与设计模式/1 概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C2机器学习/2.2逻辑回归.md"
+                "file": "B2软件工程/E软件结构与设计模式/1 概述.md"
               }
             }
           }
@@ -148,7 +160,19 @@
   },
   "active": "94d4d7062ff71295",
   "lastOpenFiles": [
-    "C2机器学习/2.1线性回归.md",
+    "image/Pasted image 20240425115932.png",
+    "C2人机交互设计/2 Usability of interactive systems and design principles.md",
+    "B2软件工程/E软件结构与设计模式/1 概述.md",
+    "B2软件工程/E软件结构与设计模式/0课程介绍.md",
+    "C2人机交互设计/1 introduction to HCI & ID.md",
+    "B2软件工程/E软件结构与设计模式/未命名",
+    "img_PicGo/image-20221129145529787.png",
+    "img_PicGo/cata3_rag.jpg",
+    "C1人工智能导论/3. 机器学习.md",
+    "B2软件工程/E软件结构与设计模式",
+    "C2机器学习/7.md",
+    "A0Mathematical algorithms/线性代数.md",
+    "C2机器学习/1性能度量与评估.md",
     "C2机器学习/2.2逻辑回归.md",
     "A0NLP/多模态融合 Multimodel Fusion.md",
     "Zotero Note Template.md",
@@ -163,8 +187,6 @@
     "IOS 开发学习/Xcode.md",
     "IOS 开发学习/Components of an App.md",
     "IOS 开发学习",
-    "img_PicGo/image-20221129145529787.png",
-    "img_PicGo/cata3_rag.jpg",
     "img_PicGo",
     "image/截屏2024-04-18 13.17.01.png",
     "image/image-20231129105323961.png",
@@ -177,22 +199,12 @@
     "C2人机交互设计/Review.md",
     "C2人机交互设计/6 交互设计 超越人机交互.md",
     "C2人机交互设计/4.md",
-    "C2人机交互设计/2 Usability of interactive systems and design principles.md",
     "C2人机交互设计/3 The process of interaction design.md",
-    "C2人机交互设计/1 introduction to HCI & ID.md",
     "C2人机交互设计",
     "C2机器学习/利用线性回归进行人脸识别.md",
     "C2机器学习/决策树.md",
     "C2机器学习/人工神经网络.md",
-    "C2机器学习/5.md",
-    "C2机器学习/1性能度量与评估.md",
-    "C2机器学习/0课程引言.md",
     "C2机器学习",
-    "C1人工智能导论/4. 深度学习.md",
-    "C1人工智能导论/5. 卷积神经网络.md",
-    "C1人工智能导论/3. 机器学习.md",
-    "C1人工智能导论",
-    "B2English",
-    "B2软件工程/D软件项目管理"
+    "C1人工智能导论"
   ]
 }
