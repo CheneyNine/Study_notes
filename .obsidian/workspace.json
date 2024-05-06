@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29c152e0e39aacc1",
+        "id": "b1a5c52d4ac7813a",
         "type": "tabs",
         "children": [
           {
-            "id": "0cc35103eb81ad20",
+            "id": "bff153eb016c1982",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2人机交互设计/3 The process of interaction design.md",
+                "file": "B2软件工程/C软件测试/1 第一节.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C2人机交互设计/3 The process of interaction design.md",
+                "file": "B2软件工程/C软件测试/1 第一节.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C2人机交互设计/3 The process of interaction design.md",
+                "file": "B2软件工程/C软件测试/1 第一节.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C2人机交互设计/3 The process of interaction design.md"
+                "file": "B2软件工程/C软件测试/1 第一节.md"
               }
             }
           }
@@ -147,8 +147,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0cc35103eb81ad20",
+  "active": "bff153eb016c1982",
   "lastOpenFiles": [
+    "B2软件工程/C软件测试/0 导论.md",
+    "A0NLP/RNN/RNN.md",
+    "A0NLP/多模态融合 Multimodel Fusion.md",
+    "0环境包学习/环境配置备忘.md",
+    "C2人机交互设计/3 The process of interaction design.md",
     "C2人机交互设计/6 DESIGN, PROTOTYPING and CONSTRUCTION 设计原型和构建.md",
     "C2人机交互设计/Review.md",
     "C2人机交互设计/5 DISCOVERING REQUIREMENTS 发现需求.md",
@@ -156,12 +161,10 @@
     "C2人机交互设计/1 introduction to HCI & ID.md",
     "C2人机交互设计/4 CONCEPTUALIZING INTERACTION DESIGN.md",
     "image/Pasted image 20240428175059.png",
-    "C2人机交互设计/3 The process of interaction design.md",
     "image/Pasted image 20240428125806.png",
     "B2软件工程/E软件结构与设计模式/1 概述.md",
     "B2软件工程/E软件结构与设计模式/0课程介绍.md",
     "0环境包学习/服务器操作记录.md",
-    "0环境包学习/环境配置备忘.md",
     "image/Pasted image 20240425115932.png",
     "C2机器学习/7.md",
     "B2软件工程/E软件结构与设计模式",
@@ -170,7 +173,6 @@
     "image/Pasted image 20240423140125.png",
     "image/Pasted image 20240423140123.png",
     "C2机器学习/2.1线性回归.md",
-    "A0NLP/多模态融合 Multimodel Fusion.md",
     "Zotero Note Template.md",
     "Suggestions.md",
     "README.md",
@@ -190,7 +192,6 @@
     "image",
     "C2人机交互设计",
     "C2机器学习/利用线性回归进行人脸识别.md",
-    "C2机器学习/决策树.md",
     "C2机器学习",
     "C1人工智能导论",
     "B2English"
