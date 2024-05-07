@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2软件工程/C软件测试/1 第一节.md",
+                "file": "B2软件工程/C软件测试/2 单元测试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dafb8ddf09f7aa46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2软件工程/C软件测试/复习.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B2软件工程/C软件测试/1 第一节.md",
+                "file": "B2软件工程/C软件测试/2 单元测试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B2软件工程/C软件测试/1 第一节.md",
+                "file": "B2软件工程/C软件测试/2 单元测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B2软件工程/C软件测试/1 第一节.md"
+                "file": "B2软件工程/C软件测试/2 单元测试.md"
               }
             }
           }
@@ -149,9 +161,12 @@
   },
   "active": "bff153eb016c1982",
   "lastOpenFiles": [
-    "0环境包学习/服务器操作记录.md",
     "B2软件工程/C软件测试/1 第一节.md",
+    "B2软件工程/C软件测试/2 单元测试.md",
+    "image/Pasted image 20240507211024.png",
+    "B2软件工程/C软件测试/复习.md",
     "B2软件工程/C软件测试/0 导论.md",
+    "0环境包学习/服务器操作记录.md",
     "A0NLP/RNN/RNN.md",
     "A0NLP/多模态融合 Multimodel Fusion.md",
     "0环境包学习/环境配置备忘.md",
@@ -179,17 +194,13 @@
     "README.md",
     "Mdnotes Default Template.md",
     "X美赛/笔记.md",
-    "X美赛/历年 C 题的O 奖文章整理.md",
     "X美赛",
     "IOS 开发学习/test/cata2_rag.jpg",
     "IOS 开发学习/test",
-    "IOS 开发学习/Xcode.md",
-    "IOS 开发学习/Components of an App.md",
     "IOS 开发学习",
     "img_PicGo/image-20221129145529787.png",
     "img_PicGo/cata3_rag.jpg",
     "img_PicGo",
-    "image/截屏2024-04-18 13.17.01.png",
     "image",
     "C2人机交互设计",
     "C2机器学习",
