@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2软件工程/C软件测试/2 单元测试.md",
+                "file": "B2软件工程/C软件测试/3 白盒测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.50390243530273
+    "width": 210.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "a38ac8b6545f3660",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B2软件工程/C软件测试/2 单元测试.md",
+                "file": "B2软件工程/C软件测试/3 白盒测试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B2软件工程/C软件测试/2 单元测试.md",
+                "file": "B2软件工程/C软件测试/3 白盒测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B2软件工程/C软件测试/2 单元测试.md"
+                "file": "B2软件工程/C软件测试/3 白盒测试.md"
               }
             }
           }
@@ -146,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,11 +161,21 @@
   },
   "active": "bff153eb016c1982",
   "lastOpenFiles": [
+    "B2软件工程/C软件测试/复习.md",
+    "B2软件工程/C软件测试/3 白盒测试.md",
+    "image/Pasted image 20240508162249.png",
+    "image/Pasted image 20240508152533.png",
+    "image/Pasted image 20240508144217.png",
+    "image/Pasted image 20240508143755.png",
+    "未命名.md",
+    "B2软件工程/C软件测试/0 导论.md",
     "B2软件工程/C软件测试/1 第一节.md",
+    "image/Pasted image 20240507224527.png",
+    "image/Pasted image 20240507224158.png",
+    "image/Pasted image 20240507224151.png",
+    "image/Pasted image 20240507215505.png",
     "B2软件工程/C软件测试/2 单元测试.md",
     "image/Pasted image 20240507211024.png",
-    "B2软件工程/C软件测试/复习.md",
-    "B2软件工程/C软件测试/0 导论.md",
     "0环境包学习/服务器操作记录.md",
     "A0NLP/RNN/RNN.md",
     "A0NLP/多模态融合 Multimodel Fusion.md",
@@ -178,28 +188,18 @@
     "C2人机交互设计/1 introduction to HCI & ID.md",
     "C2人机交互设计/4 CONCEPTUALIZING INTERACTION DESIGN.md",
     "image/Pasted image 20240428175059.png",
-    "image/Pasted image 20240428125806.png",
     "B2软件工程/E软件结构与设计模式/1 概述.md",
     "B2软件工程/E软件结构与设计模式/0课程介绍.md",
-    "image/Pasted image 20240425115932.png",
     "C2机器学习/7.md",
     "B2软件工程/E软件结构与设计模式",
     "C2机器学习/2.2逻辑回归（对数几率回归）.md",
-    "image/Pasted image 20240423140739.png",
-    "image/Pasted image 20240423140125.png",
-    "image/Pasted image 20240423140123.png",
     "C2机器学习/2.1线性回归.md",
     "Zotero Note Template.md",
     "Suggestions.md",
     "README.md",
-    "Mdnotes Default Template.md",
-    "X美赛/笔记.md",
     "X美赛",
-    "IOS 开发学习/test/cata2_rag.jpg",
     "IOS 开发学习/test",
     "IOS 开发学习",
-    "img_PicGo/image-20221129145529787.png",
-    "img_PicGo/cata3_rag.jpg",
     "img_PicGo",
     "image",
     "C2人机交互设计",
