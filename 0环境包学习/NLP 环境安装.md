@@ -71,7 +71,7 @@ conda install --yes --file transformersenv_requirement2.txt
 
 transformersenv_requirement
 
-7、NLP项目浅尝实践[[4]](https://zhuanlan.zhihu.com/p/625201188#ref_4)
+7、NLP项目浅尝实践[[4 CONCEPTUALIZING INTERACTION DESIGN]](https://zhuanlan.zhihu.com/p/625201188#ref_4)
 
 试着运行大佬们开源的项目《CCKS2021中文nlp地址相关性任务》，合格成为一名环境配置调度跑起来的工具人哈哈~跑的太慢五一要出去玩就kill掉了，读者可以自行尝试。
 
