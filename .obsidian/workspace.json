@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2软件工程/C软件测试/3 白盒测试_副本.md",
+                "file": "B2软件工程/C软件测试/4 黑盒测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B2软件工程/C软件测试/3 白盒测试_副本.md",
+                "file": "B2软件工程/C软件测试/4 黑盒测试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B2软件工程/C软件测试/3 白盒测试_副本.md",
+                "file": "B2软件工程/C软件测试/4 黑盒测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B2软件工程/C软件测试/3 白盒测试_副本.md"
+                "file": "B2软件工程/C软件测试/4 黑盒测试.md"
               }
             }
           }
@@ -160,14 +160,16 @@
   },
   "active": "bff153eb016c1982",
   "lastOpenFiles": [
-    "B2软件工程/C软件测试/4 黑盒测试.md",
-    "conflict-files-obsidian-git.md",
+    "B2软件工程/C软件测试/复习.md",
+    "B2软件工程/D软件项目管理/复习.md",
     "B2软件工程/C软件测试/3 白盒测试.md",
-    "B2软件工程/C软件测试/3 白盒测试_副本.md",
+    "B2软件工程/C软件测试/4 黑盒测试.md",
+    "image/Pasted image 20240509141755.png",
+    "image/Pasted image 20240509141739.png",
+    "conflict-files-obsidian-git.md",
     "image/Pasted image 20240509103741.png",
     "image/Pasted image 20240509103614.png",
     "B2软件工程/E软件结构与设计模式/2 软件体系结构建模.md",
-    "B2软件工程/C软件测试/复习.md",
     "B2软件工程/C软件测试/0 导论.md",
     "image/Pasted image 20240508195113.png",
     "image/Pasted image 20240508194915.png",
@@ -175,8 +177,6 @@
     "image/Pasted image 20240508194606.png",
     "image/Pasted image 20240508194603.png",
     "image/Pasted image 20240508191058.png",
-    "image/Pasted image 20240508162249.png",
-    "image/Pasted image 20240508152533.png",
     "未命名.md",
     "B2软件工程/C软件测试/1 第一节.md",
     "B2软件工程/C软件测试/2 单元测试.md",
