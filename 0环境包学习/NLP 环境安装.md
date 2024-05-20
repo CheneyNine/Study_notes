@@ -7,7 +7,7 @@
 1、anaconda创建虚拟环境，我这里选择的是安装python 3.8
 
 ```text
-conda create -n transformers_pyenv38 python=3.8
+conda create -n blip python=3.8
 ```
 
 随后，激活环境
