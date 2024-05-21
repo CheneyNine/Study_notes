@@ -77,3 +77,7 @@ ChemGPT https://huggingface.co/ncfrey 1.2B/19M/4.7M
 5. Scale network training to any number of GPUs using the example batch scripts.
 
 
+# 代码
+# Encoder
+
+
