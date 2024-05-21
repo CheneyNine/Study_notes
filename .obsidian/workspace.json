@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Zotero Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Zotero Note Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Zotero Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Zotero Note Template.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "747e95030b9a5a58",
   "lastOpenFiles": [
-    "Suggestions.md",
     "README.md",
+    "Suggestions.md",
     "Mdnotes Default Template.md",
     "A0 Ai4S/DreaMS.md",
     "image/Pasted image 20240520162550.png",
