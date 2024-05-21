@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A0 Ai4S/BLIP2.md",
+                "file": "A0 Ai4S/DreaMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A0 Ai4S/BLIP2.md",
+                "file": "A0 Ai4S/DreaMS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A0 Ai4S/BLIP2.md",
+                "file": "A0 Ai4S/DreaMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A0 Ai4S/BLIP2.md"
+                "file": "A0 Ai4S/DreaMS.md"
               }
             }
           }
@@ -149,9 +149,15 @@
   },
   "active": "747e95030b9a5a58",
   "lastOpenFiles": [
+    "image/Pasted image 20240521110001.png",
+    "image/Pasted image 20240521105955.png",
+    "image/Pasted image 20240521105949.png",
+    "image/Pasted image 20240521105941.png",
+    "A0 Ai4S/BLIP-2.md",
+    "A0 Ai4S/DreaMS.md",
+    "image/Pasted image 20240520162550.png",
     "image/Pasted image 20240520160652.png",
     "0环境包学习/环境配置备忘.md",
-    "A0 Ai4S/BLIP2.md",
     "A0 Ai4S",
     "0环境包学习/服务器操作记录.md",
     "0环境包学习/NLP 环境安装.md",
@@ -167,11 +173,6 @@
     "image/Pasted image 20240516010200.png",
     "image/Pasted image 20240516003200.png",
     "image/Pasted image 20240515233704.png",
-    "image/Pasted image 20240515231512.png",
-    "image/Pasted image 20240515231100.png",
-    "image/Pasted image 20240515231019.png",
-    "image/Pasted image 20240515163111.png",
-    "image/Pasted image 20240515160145.png",
     "B2软件工程/D软件项目管理/1 项目初始.md",
     "B2软件工程/D软件项目管理/2 项目计划.md",
     "B2软件工程/C软件测试/复习.md",
@@ -185,7 +186,6 @@
     "A0 NLP/Word Embedding/ELMo.md",
     "A0 NLP/Transfomer/Transformer.md",
     "A0 NLP/RNN/RNN.md",
-    "A0 NLP/RNN/Hierarchically aggregating document info.md",
     "A0 NLP/医学论文学习",
     "A0 NLP/Seq2seq",
     "A0 NLP/Word Embedding",
