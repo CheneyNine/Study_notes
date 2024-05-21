@@ -11,11 +11,9 @@
             "id": "747e95030b9a5a58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "A0 Ai4S/BLIP2.md",
-                "mode": "source",
-                "source": false
+                "file": "image/Pasted image 20240520162550.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A0 Ai4S/BLIP2.md",
+                "file": "image/Pasted image 20240520162550.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A0 Ai4S/BLIP2.md",
+                "file": "image/Pasted image 20240520162550.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A0 Ai4S/BLIP2.md"
+                "file": "image/Pasted image 20240520162550.png"
               }
             }
           }
@@ -149,9 +147,20 @@
   },
   "active": "747e95030b9a5a58",
   "lastOpenFiles": [
+    "image/Pasted image 20240521105949.png",
+    "image/Pasted image 20240520162550.png",
+    "image/Pasted image 20240521105941.png",
+    "image/Pasted image 20240521110001.png",
+    "image/Pasted image 20240521105955.png",
+    "image/截屏2024-04-18 13.17.01.png",
+    "A0 Ai4S/DreaMS.md",
+    "A0 Ai4S/BLIP-2.md",
+    "A0 Ai4S/DreaMS--Emergence of molecular structures from repository-scale self-supervised learning on tandem mass spectra串联质谱存储库规模自监督学习中分子结构的出现.md",
+    "A0 Ai4S/Emergence of molecular structures from repository-scale self-supervised learning on tandem mass spectra串联质谱存储库规模自监督学习中分子结构的出现.md",
+    "A0 Ai4S/Emergence of molecular structures from repository-scale self-supervised learning on tandem mass spectra.md",
+    "A0 Ai4S/未命名.md",
     "image/Pasted image 20240520160652.png",
     "0环境包学习/环境配置备忘.md",
-    "A0 Ai4S/BLIP2.md",
     "A0 Ai4S",
     "0环境包学习/服务器操作记录.md",
     "0环境包学习/NLP 环境安装.md",
@@ -166,12 +175,6 @@
     "A0 NLP/Word Embedding/Word2Vec、Glove、ELMo & fastText.md",
     "image/Pasted image 20240516010200.png",
     "image/Pasted image 20240516003200.png",
-    "image/Pasted image 20240515233704.png",
-    "image/Pasted image 20240515231512.png",
-    "image/Pasted image 20240515231100.png",
-    "image/Pasted image 20240515231019.png",
-    "image/Pasted image 20240515163111.png",
-    "image/Pasted image 20240515160145.png",
     "B2软件工程/D软件项目管理/1 项目初始.md",
     "B2软件工程/D软件项目管理/2 项目计划.md",
     "B2软件工程/C软件测试/复习.md",
@@ -181,11 +184,6 @@
     "A0 NLP/Seq2seq/Seq2seq.md",
     "A0 NLP/Word Embedding/拓展学习Word Embedding.md",
     "A0 NLP/Word Embedding/LINK Language Model training with Neural Networks.md",
-    "A0 NLP/Word Embedding/Intro of Word Embedding.md",
-    "A0 NLP/Word Embedding/ELMo.md",
-    "A0 NLP/Transfomer/Transformer.md",
-    "A0 NLP/RNN/RNN.md",
-    "A0 NLP/RNN/Hierarchically aggregating document info.md",
     "A0 NLP/医学论文学习",
     "A0 NLP/Seq2seq",
     "A0 NLP/Word Embedding",
