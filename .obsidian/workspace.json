@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7bd4a8c594d2df02",
+        "id": "cebd0488a6c8f90a",
         "type": "tabs",
         "children": [
           {
-            "id": "1c8d0eef3842815f",
+            "id": "747e95030b9a5a58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "A0 Ai4S/DreaMS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A0 Ai4S/DreaMS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A0 Ai4S/DreaMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A0 Ai4S/DreaMS.md"
+              }
             }
           }
         ],
@@ -139,53 +147,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1c8d0eef3842815f",
+  "active": "747e95030b9a5a58",
   "lastOpenFiles": [
-    "A0 Ai4S/未命名.md",
-    "A0 Ai4S/Foundation model for Mass Spectrum-based metabolomics.md",
+    "Zotero Note Template.md",
     "README.md",
-    "软件工程/D软件项目管理/1 项目初始.md",
-    "软件工程/D软件项目管理/2 项目计划.md",
-    "软件工程/D软件项目管理/0 软件项目管理概述.md",
-    "软件工程/C软件测试/3 白盒测试.md",
-    "软件工程/C软件测试/2 单元测试.md",
-    "软件工程/C软件测试/1 第一节.md",
-    "软件工程/C软件测试/0 导论.md",
-    "软件工程/D软件项目管理",
-    "软件工程/C软件测试",
-    "软件工程",
-    "美赛/笔记.md",
-    "美赛/历年 C 题的O 奖文章整理.md",
-    "美赛",
-    "知识图谱/Notes.md",
-    "知识图谱/Temp.md",
-    "知识图谱",
-    "环境包学习/环境配置备忘.md",
-    "环境包学习/index.md",
-    "环境包学习/Tensorflow.md",
-    "环境包学习/Pytorch.md",
-    "环境包学习/Opencv.md",
-    "环境包学习/Numpy.md",
-    "环境包学习/NLP 环境安装.md",
-    "环境包学习/Keras.md",
-    "环境包学习/Install NLP_TF_GPU on Mac M1.md",
-    "环境包学习",
-    "机器学习/逻辑回归.md",
-    "机器学习/课程引言.md",
-    "机器学习/线性回归.md",
-    "机器学习",
-    "人机交互设计",
-    "人工智能导论",
-    "NLP/医学论文学习",
-    "img_PicGocata3_rag.jpg",
-    "test/cata2_rag.jpg",
-    "image/Pasted image 20240521144630.png",
-    "image/Pasted image 20240521144318.png",
-    "image/Pasted image 20240521144220.png",
+    "Suggestions.md",
+    "Mdnotes Default Template.md",
+    "A0 Ai4S/DreaMS.md",
     "image/Pasted image 20240520162550.png",
+    "conflict-files-obsidian-git.md",
+    "A0 Ai4S/BLIP-2.md",
     "image/Pasted image 20240521110001.png",
     "image/Pasted image 20240521105955.png",
     "image/Pasted image 20240521105949.png",
-    "image/Pasted image 20240521105941.png"
+    "image/Pasted image 20240521105941.png",
+    "image/截屏2024-04-18 13.17.01.png",
+    "A0 Ai4S/DreaMS--Emergence of molecular structures from repository-scale self-supervised learning on tandem mass spectra串联质谱存储库规模自监督学习中分子结构的出现.md",
+    "A0 Ai4S/Emergence of molecular structures from repository-scale self-supervised learning on tandem mass spectra串联质谱存储库规模自监督学习中分子结构的出现.md",
+    "A0 Ai4S/Emergence of molecular structures from repository-scale self-supervised learning on tandem mass spectra.md",
+    "image/Pasted image 20240520160652.png",
+    "0环境包学习/环境配置备忘.md",
+    "A0 Ai4S",
+    "0环境包学习/服务器操作记录.md",
+    "0环境包学习/NLP 环境安装.md",
+    "A0 StableDiffusion/Prompt.md",
+    "0环境包学习/Git 学习.md",
+    "A0 StableDiffusion/Fooocus.md",
+    "B2软件工程/D软件项目管理/复习.md",
+    "B2软件工程/D软件项目管理/简答题.md",
+    "image/Pasted image 20240516094324.png",
+    "B2软件工程/D软件项目管理/0 软件项目管理概述.md",
+    "image/Pasted image 20240516031422.png",
+    "A0 NLP/Word Embedding/Word2Vec、Glove、ELMo & fastText.md",
+    "image/Pasted image 20240516010200.png",
+    "B2软件工程/D软件项目管理/1 项目初始.md",
+    "B2软件工程/D软件项目管理/2 项目计划.md",
+    "B2软件工程/C软件测试/复习.md",
+    "0环境包学习/index.md",
+    "A0 NLP/医学论文学习/研究方向.md",
+    "A0 NLP/医学论文学习/基于深度学习的医学文本情感分析.md",
+    "A0 NLP/医学论文学习",
+    "A0 NLP/Seq2seq",
+    "A0 NLP/Word Embedding",
+    "A0 NLP/Transfomer",
+    "A0 NLP/RNN",
+    "A0 NLP/LSTM",
+    "A0 NLP/GRU",
+    "A0 NLP/Bert",
+    "A0 NLP"
   ]
 }
