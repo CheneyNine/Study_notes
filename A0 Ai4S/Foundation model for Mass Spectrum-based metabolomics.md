@@ -59,7 +59,7 @@ queries 32个，每个维度是768
 
 ## 从 Frozen 的 LLM（Decoder）中 Bootstrap 视觉-语言生成学习
 两种LLM变体：基于Decoder的 & 基于Encoder-Decoder的
-
+图像变换器的输出查询嵌入被线性投影到与语言模型期望的文本嵌入相同的维度。然后将这些投影的查询嵌入与文本嵌入concatenate（开头），作为软视觉提示，迫使语言模型专注于Q-Former提取的视觉特征。
 
 
 # Decoder-ChemGPT 
