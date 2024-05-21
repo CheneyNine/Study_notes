@@ -58,7 +58,8 @@ queries 32个，每个维度是768
 
 
 ## 从 Frozen 的 LLM（Decoder）中 Bootstrap 视觉-语言生成学习
-两种LLM变体：基于
+两种LLM变体：基于Decoder的 & 基于Encoder-Decoder的
+
 
 
 # Decoder-ChemGPT 
