@@ -1,5 +1,5 @@
 {
-  "commitMessage": "backup: {{date}}",
+  "commitMessage": "backup from {{hostname}} on {{date}}",
   "commitDateFormat": "YYYY-MM-DD",
   "autoSaveInterval": 1,
   "autoPushInterval": 0,
@@ -8,7 +8,7 @@
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
-  "disablePopupsForNoChanges": false,
+  "disablePopupsForNoChanges": true,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
