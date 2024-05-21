@@ -25,7 +25,7 @@ BLIP-2，一种预训练方式，从现成的冻结*预训练图像编码器*和
 The authors used a lightweight Querying Transformer to serve as a bottleneck between the frozen image and text encoders (models).
 首先，图像被传递给图像编码器以提取视觉特征，然后将输出传递给语言模型以理解它。然而，存在一个挑战；由于冻结的语言模型没有在图像数据上进行训练，因此在没有进一步帮助的情况下，它无法对提取的视觉表示进行良好的解释。为了解决这个问题，Q-Former使用一组可学习的***querying vectors***，并分两个阶段进行预训练：（1）使用冻结图像编码器进行视觉-语言表示学习，（2）使用冻结文本编码器进行视觉到语言生成学习阶段。
 ## 训练
-这种转换器分两阶段进行预训练。
+这种 Transformer 分两阶段进行预训练。
 第一阶段从冻结的图像编码器启动视觉-语言表示学习(Encoder)
 第二阶段从冻结的语言模型启动视觉到语言的生成学习(Decoder)
 尽管BLIP-2的可训练参数比现有方法少很多，但在各种视觉语言任务上都达到了最先进的性能。
