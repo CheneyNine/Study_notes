@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "2706cae1f0ecf181",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bd4a8c594d2df02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c8d0eef3842815f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e79262c78c417fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "46a56cbbef35f985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8affd4fe52101f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26adfb4ea1fbdce9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "467eeda74bb8c8a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.50390243530273
+  },
+  "right": {
+    "id": "a38ac8b6545f3660",
+    "type": "split",
+    "children": [
+      {
+        "id": "95b229af4f01b941",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d9e73012a9b32dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a52fa638772ed98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b61bbe11fe624dce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf506d90642c4fd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1c8d0eef3842815f",
+  "lastOpenFiles": [
+    "A0 Ai4S/未命名.md",
+    "A0 Ai4S/Foundation model for Mass Spectrum-based metabolomics.md",
+    "README.md",
+    "软件工程/D软件项目管理/1 项目初始.md",
+    "软件工程/D软件项目管理/2 项目计划.md",
+    "软件工程/D软件项目管理/0 软件项目管理概述.md",
+    "软件工程/C软件测试/3 白盒测试.md",
+    "软件工程/C软件测试/2 单元测试.md",
+    "软件工程/C软件测试/1 第一节.md",
+    "软件工程/C软件测试/0 导论.md",
+    "软件工程/D软件项目管理",
+    "软件工程/C软件测试",
+    "软件工程",
+    "美赛/笔记.md",
+    "美赛/历年 C 题的O 奖文章整理.md",
+    "美赛",
+    "知识图谱/Notes.md",
+    "知识图谱/Temp.md",
+    "知识图谱",
+    "环境包学习/环境配置备忘.md",
+    "环境包学习/index.md",
+    "环境包学习/Tensorflow.md",
+    "环境包学习/Pytorch.md",
+    "环境包学习/Opencv.md",
+    "环境包学习/Numpy.md",
+    "环境包学习/NLP 环境安装.md",
+    "环境包学习/Keras.md",
+    "环境包学习/Install NLP_TF_GPU on Mac M1.md",
+    "环境包学习",
+    "机器学习/逻辑回归.md",
+    "机器学习/课程引言.md",
+    "机器学习/线性回归.md",
+    "机器学习",
+    "人机交互设计",
+    "人工智能导论",
+    "NLP/医学论文学习",
+    "img_PicGocata3_rag.jpg",
+    "test/cata2_rag.jpg",
+    "image/Pasted image 20240521144630.png",
+    "image/Pasted image 20240521144318.png",
+    "image/Pasted image 20240521144220.png",
+    "image/Pasted image 20240520162550.png",
+    "image/Pasted image 20240521110001.png",
+    "image/Pasted image 20240521105955.png",
+    "image/Pasted image 20240521105949.png",
+    "image/Pasted image 20240521105941.png"
+  ]
+}
