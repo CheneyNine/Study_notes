@@ -11,9 +11,11 @@
             "id": "747e95030b9a5a58",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image/Pasted image 20240520162550.png"
+                "file": "A0 Ai4S/DreaMS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "image/Pasted image 20240520162550.png",
+                "file": "A0 Ai4S/DreaMS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "image/Pasted image 20240520162550.png",
+                "file": "A0 Ai4S/DreaMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image/Pasted image 20240520162550.png"
+                "file": "A0 Ai4S/DreaMS.md"
               }
             }
           }
@@ -147,9 +149,10 @@
   },
   "active": "747e95030b9a5a58",
   "lastOpenFiles": [
+    "image/Pasted image 20240520162550.png",
+    "A0 Ai4S/DreaMS.md",
     "conflict-files-obsidian-git.md",
     "A0 Ai4S/BLIP-2.md",
-    "image/Pasted image 20240520162550.png",
     "A0 Ai4S/DreaMS.md",
     "image/Pasted image 20240521110001.png",
     "image/Pasted image 20240521105955.png",
@@ -159,7 +162,6 @@
     "A0 Ai4S/DreaMS--Emergence of molecular structures from repository-scale self-supervised learning on tandem mass spectra串联质谱存储库规模自监督学习中分子结构的出现.md",
     "A0 Ai4S/Emergence of molecular structures from repository-scale self-supervised learning on tandem mass spectra串联质谱存储库规模自监督学习中分子结构的出现.md",
     "A0 Ai4S/Emergence of molecular structures from repository-scale self-supervised learning on tandem mass spectra.md",
-    "A0 Ai4S/未命名.md",
     "image/Pasted image 20240520160652.png",
     "0环境包学习/环境配置备忘.md",
     "A0 Ai4S",
