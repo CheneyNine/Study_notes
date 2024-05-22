@@ -80,7 +80,7 @@ ChemGPT https://huggingface.co/ncfrey 1.2B/19M/4.7M
 # 代码
 # Encoder
 DreaMS/dreams/api.py
-
+输出 n 个 1024 维的 DreaMS 表示
 数据格式：mgf
 ```text
 BEGIN IONS
@@ -249,3 +249,4 @@ END IONS
 • **Num peaks**: 61
 
 • 列出了61个质谱峰的质量电荷比（m/z）及其对应的强度。这些峰值信息是质谱分析的核心数据，用于确定化合物的结构和性质。
+
