@@ -11,8 +11,12 @@
             "id": "747e95030b9a5a58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "A0 Ai4S/Foundation model for Mass Spectrum-based metabolomics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.50390243530273
+    "width": 328.5
   },
   "right": {
     "id": "a38ac8b6545f3660",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A0 Ai4S/Foundation model for Mass Spectrum-based metabolomics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A0 Ai4S/Foundation model for Mass Spectrum-based metabolomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A0 Ai4S/Foundation model for Mass Spectrum-based metabolomics.md"
+              }
             }
           }
         ],
@@ -140,17 +148,19 @@
   },
   "active": "747e95030b9a5a58",
   "lastOpenFiles": [
+    "image/Pasted image 20240521210052.png",
+    "image/Pasted image 20240521110001.png",
+    "image/Pasted image 20240521105955.png",
+    "image/Pasted image 20240521105949.png",
+    "image/Pasted image 20240521105941.png",
+    "image/Pasted image 20240520162550.png",
+    "image/Pasted image 20240521211524.png",
+    "A0 Ai4S/Foundation model for Mass Spectrum-based metabolomics.md",
+    "A0 Ai4S/DreaMS.md",
     "image/Pasted image 20231216234301.png",
     "image/Pasted image 20240509103741.png",
     "image/Pasted image 20240419203943.png",
     "image/Pasted image 20231216221525.png",
-    "image/Pasted image 20240515132356.png",
-    "image/Pasted image 20240508162249.png",
-    "image/Pasted image 20231229174616.png",
-    "image/Pasted image 20240516094324.png",
-    "image/Pasted image 20240105012331.png",
-    "image/Pasted image 20231213105456.png",
-    "image/Pasted image 20231229162311.png",
     "Study_notes",
     "img_PicGo",
     "conflict-files-obsidian-git.md",
@@ -182,9 +192,7 @@
     "A0 NLP/Word Embedding/Word2Vec、Glove、ELMo & fastText.md",
     "A0 NLP/Word Embedding/LINK Language Model training with Neural Networks.md",
     "A0 NLP/Word Embedding/Intro of Word Embedding.md",
-    "A0 NLP/Word Embedding/ELMo.md",
     "A0 NLP/Word Embedding",
-    "A0 NLP/医学论文学习/研究方向.md",
     "A0 NLP/医学论文学习"
   ]
 }
