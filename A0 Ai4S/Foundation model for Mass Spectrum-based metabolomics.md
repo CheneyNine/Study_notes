@@ -251,5 +251,17 @@ END IONS
 • 列出了61个质谱峰的质量电荷比（m/z）及其对应的强度。这些峰值信息是质谱分析的核心数据，用于确定化合物的结构和性质。
 
 # 中间层
-line 449:
-line 536: Blip2VisionModel
+## line 449:
+## line 536: Blip2VisionModel
+
+Blip2VisionModel 继承自 Blip2PreTrainedModel，并包含以下主要组件： 
+
+• **main_input_name** **和** **config_class**: 定义了模型的主要输入名称为 pixel_values 和配置类为 Blip2VisionConfig。
+
+• **__init__** **方法**: 初始化模型，包括嵌入层、编码器层和层规范化。具体组件有：
+
+• self.embeddings: 用于图像像素值嵌入的层。
+
+• self.encoder: 编码器，用于对嵌入进行进一步处理。
+
+• self.post_layernorm: 最后的层规范化，用于稳定训练。
