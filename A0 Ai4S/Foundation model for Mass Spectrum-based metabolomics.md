@@ -251,6 +251,15 @@ END IONS
 • 列出了61个质谱峰的质量电荷比（m/z）及其对应的强度。这些峰值信息是质谱分析的核心数据，用于确定化合物的结构和性质。
 
 # 中间层
+
+
+```python
+
+python -m torch.distributed.run --nproc_per_node=16 train.py --cfg-path lavis/projects/blip2/train/pretrain_stage1.yaml
+
+
+```
+
 ## line 449:
 ## line 536: Blip2VisionModel
 
